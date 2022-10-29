@@ -1,5 +1,3 @@
-![Build & Push to IPFS](https://github.com/compound-finance/palisade/actions/workflows/build-workflow.yml/badge.svg)
-
 # Compound Web3 Front-end
 
 Palisade is the web3 front-end experience to interact with the Compound Ethereum protocol.
